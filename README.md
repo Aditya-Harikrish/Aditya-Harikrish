@@ -1,4 +1,4 @@
-Hi, I’m Aditya Harikrish, a third year Computer Science Engineering (dual degree: BTech + MS) student at IIIT Hyderabad.
+Hi, I’m Aditya Harikrish, a fourth year Computer Science Engineering (dual degree: BTech + MS) student at IIIT Hyderabad.
 My research interest pertains to parallel graph algorithms.
 Contact me: [email](mailto:h.aditya.v@gmail.com).
 
